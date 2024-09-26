@@ -1,0 +1,1 @@
+Maintains functionality of the original addon, but some unfortunate UI changes. Interface/Options/Addons the settings are no longer nested properly. EasyMenu frame for right clicking the Equipment Bar no longer works.
