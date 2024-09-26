@@ -1,0 +1,244 @@
+Todo:
+区分不同附魔的同名装备
+支持默认的冷却动画
+物品列表显示银行装备
+换装支持银行装备
+分离萝卜功能
+
+---
+
+v6.2
+
+1. 支持2.5.3
+2. 修复一些小Bug
+
+1. Support v2.5.3
+2. Fix some minor bugs
+
+---
+
+v6.0
+感谢nga大佬们wjsghr1、七箫的高品质代码！！
+
+1. 自动更换马鞭、碎天者之鞭
+2. 更新TBC的主动饰品数据
+3. 解决图标显示异常问题
+4. 更新73+套装功能
+
+1. Automatic equip Skybreaker Whip and Riding Crop
+2. Update TBC's usable trinkets data
+3. Fix the bug that the icon is displayed abnormally
+4. Update Suite for 73+ feature
+
+---
+
+v5.16
+
+1. 支持TBC
+2. 修复一些小Bug
+
+1. Support TBC
+2. Fix some minor bugs
+
+---
+
+v5.15
+
+1. 支持1.13.6
+2. 更新韩语本地化文件
+
+1. Support 1.13.6
+2. Update Korean localization files
+
+---
+
+v5.14
+
+1. 自动装备naxx/银色黎明饰品
+
+1. Auot-equip Naxx / Argent Dawn trinket
+
+---
+
+v5.13
+
+1. 修复一个小地图图标的报错，并且添加隐藏选项
+2. 修复一些小Bug
+
+1. Fix a bug about minimap icon, and add an option to hide the icon
+2. Fix some minor bugs
+
+---
+
+v5.12
+
+1. 右键点击装备栏可以加锁
+2. 增加选项：当自己选中友善目标时脱下加速装备
+3. 新增小地图按钮，点击打开设置
+4. 增加选项：隐藏装备列表上的物品等级
+
+1. Right-click the equipment bar will lock the button
+2. Add a option: When You target a friend, takeoff acceleration items
+3. Add minimap icon. Click it to open setttins.
+4. Add a option: Hide item level on the item list
+
+---
+
+v5.11
+
+1. 角色面板快速换装
+2. 新增选项：左键点击装备到饰品栏1，右键饰品栏2
+3. 装备弹出列表显示装备等级
+
+1. Quick Equip on charactor panel
+2. Add an option: Click Left button to equip trinket 1, Right button trinket 2
+3. Show item level on item popup list
+
+---
+
+v5.10
+
+1. 修复超级换装套装1丢失装备的bug
+
+1. Fix a bug: Suit 1 lost some equipments
+
+---
+
+v5.9
+
+1. 副本/战场/TAQ可用骑马自动加速
+2. 自己/团队成员目标是敌对目标时脱下加速装备
+3. 装备栏锁定时也可以自动换加速装备
+4. 分离快捷按钮并可单独移动位置
+
+1. Enable Auto Acceleration function in Instance/Battleground/TAQ
+2. Takeoff acceleration items when you or raid members target enemies
+3. Auto equip acceleration items when equipment bar is locked
+4. Separate Quick Button and move it separately
+
+---
+
+v5.7/5.8
+
+1. 修复bug：关闭buff提醒功能依然显示
+2. 修复bug：主动物品数据错乱
+
+1. fix bug: Disable buff alert function, but it still work
+2. fix bug: usable item data is out of order
+
+---
+
+v5.6
+
+1. 优化buff提醒，现在可以自动识别饰品buff
+2. 右键点击buff图标，取消buff
+3. 增加选项：固定位置: 优先1=饰品栏1, 优先2=饰品栏2
+4. buff消失时，饰品会自动换下
+5. 增加/修改一些饰品数据
+6. 增加命令行：/ae resetp  -- 重置装备栏位置
+
+1. Optimize buff alert, that can auto-detect trinket buff now.
+2. Right-click buff alert icon will cancel the buff aura.
+3. Add an option: Fixed position: Priority 1 = Slot 1, Priority 2 = Slot 2
+4. When buff disappears, usable trinket is automatically replaced
+5. Add/modify some usable trinket data.
+6. Add command: /ae resetp  -- Reset equipment bar position
+
+---
+
+v5.5
+
+1. 可以给套装添加备注
+2. 修改被动饰品按优先级换上，之前是固定1、2位置
+
+1. You can add note to the suit
+2. Modify the backup trinkets according to the priority change, before is fixed 1, 2 positions
+
+---
+
+v5.4
+
+1. 增加隐藏聊天框插件提示的选项
+2. 增加禁用一键脱装按钮的选项
+3. 修复毒药次数减少触发换装的bug
+4. 奈法房间里，超级换装不会换披风
+5. 超级换装支持快捷键绑定
+6. Buff提醒改为精准匹配
+
+1. Add option: Hide addon info in the chat box
+2. Add option: Disable the takeoff quick button
+3. Fix bug: Poison has been reduced to trigger suit equip
+4. Super equip dosn't change clock in Nefarian's Lair
+5. Super equip supports shortcut key binding
+6. Buff alert changed to exact match
+
+---
+
+v5.3
+
+1. 修复战斗中点换装的报错
+2. 优化物品弹出框的更新机制
+
+1. Fix a bug that change a suit in combat
+2. Optimize the update logic of the item popup list
+
+---
+
+v5.2
+
+1. 修复一个锁定装备栏的bug
+2. 修改超级换装中描述错误，应该为“装备名称”
+3. “换装前锁定装备栏”默认勾选
+
+1. Fix a bug that occurred when locking the equipment bar
+2. Fix a text mistake in "Super Equip". "ItemName" is correct.
+3. "Lock equipment bar first" is selected by default
+
+---
+
+v5.1
+
+1. 修复战斗中通过装备栏换装时的bug
+
+1. Fix a bug that use equipment bar to change an item in combat
+
+---
+
+v5.0
+
+1. 新功能：超级换装，包括一键换装和自动换装规则
+2. 增加快捷按钮
+3. 修复一个可能卡死游戏的bug
+4. 优化装备栏展现
+5. 装备弹出列表按背包顺序排列
+6. 优化63+套装切换目标逻辑
+7. 开启主动队列的装备栏按钮会有图标显示
+8. 自动装备[奥妮克希亚鳞片披风]后团队频道提醒
+
+1. New feature: Super Equip, include one-key change equipments and custom auto-equip rules
+2. Add quick buttons
+3. Fix a bug that may freeze the game
+4. Beautify the equipment bar
+5. The item pop-up list is arranged in order of backpacks
+6. Optimized Suit 63+ switching target logic
+7. The equipment button which is running a usable queue will have an icon display
+8. Remind on Raid channel when auto-equiped [Onyxia Scale Cloak]
+
+---
+
+v4.15
+
+1. 增加/ae lock命令，锁定装备栏全部按钮
+2. 增加“面对以下Boss时不切换套装”，适用于Bwl老四和以后TAQ哈霍兰手动换抗性装备
+3. 修复关闭自动换装功能后，战斗中通过装备栏换装备脱战不起效的问题
+4. 切换63+套装加入3次超时的限制，避免无限等待的问题
+
+---
+
+v4.14
+
+1. 增加Raid队列，默认不启用。勾选后副本中自动切换到Raid队列
+2. 增加奈法房间自动换披风的功能，默认勾选（支持简中和英文）
+3. 在奈法房间里切换BOSS套装，不会换披风
+4. 修改一些文字
+5. 适配11305版本
