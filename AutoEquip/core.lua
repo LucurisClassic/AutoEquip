@@ -461,7 +461,7 @@ SELFAQ.getTrinketStatusBySlotId = function( slot_id, queue )
     -- 获取饰品的冷却状态
     slot["start"], slot["duration"], slot["enable"] = C_Container.GetItemCooldown(slot["id"])
     -- 剩余冷却时间
-    slot["rest"] = slot["duration"] - GetTime() + slot["start"]
+    slot["rest"] = slot["duration"] - GetTime() + slot["start"] - 30
     -- buff已经持续的时长
     slot["buff"] = GetTime() - slot["start"]
 
